@@ -15,3 +15,6 @@ Decisões de projeto:
   * As opções de dieta é uma lista de dietas
   * O método main executa um menu em loop que vai acessar todo o resto do sistema
   * Como não é necessário persistir os dados entre as execuções do sistema, os dados que precisam ser salvos durante a execução do sistema são salvos em listas
+
+Instruções para executar o sistema:
+  * Clonar o repositório e abrir o projeto com o Visual Studio e executar o projeto
